@@ -41,4 +41,11 @@ python3 -m http.server 8765
 - [DSM-5-TR 診斷次級參考 / Merck](https://www.merckmanuals.com/professional/psychiatric-disorders/schizophrenia-and-related-disorders/schizophrenia)
 - 藥物來源為 DailyMed 與 FDA，完整連結列於網頁「指引與資料來源」。
 
-內容查核日期：2026-11-12；發布版 v1.0。
+內容查核日期：2026-11-12；發布版 v1.1。
+
+## v1.1 學習功能（2026-11-13）
+
+- 新增 20 題原創單選題，基礎與進階各 10 題，每題附解析與來源。
+- 支援逐題／整批批改、錯題篩選、未作答篩選及重設；更改選答後清除舊批改結果，不重複計分。作答僅在記憶體。
+- 新增 8 大分支臨床心智圖，支援搜尋、全部展開／收合、子節點展開及連結診療頁。
+- 新增 learning.js，沿用主程式來源清單與設計；不影響既有 8 病例及追蹤資料。
